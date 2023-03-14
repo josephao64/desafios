@@ -1,0 +1,15 @@
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\proyecto3_clase5\bin\Debug\net6.0\proyecto3_clase5.exe
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\proyecto3_clase5\bin\Debug\net6.0\proyecto3_clase5.deps.json
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\proyecto3_clase5\bin\Debug\net6.0\proyecto3_clase5.runtimeconfig.json
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\proyecto3_clase5\bin\Debug\net6.0\proyecto3_clase5.dll
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\proyecto3_clase5\bin\Debug\net6.0\proyecto3_clase5.pdb
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\proyecto3_clase5\obj\Debug\net6.0\proyecto3_clase5.csproj.AssemblyReference.cache
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\proyecto3_clase5\obj\Debug\net6.0\proyecto3_clase5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\proyecto3_clase5\obj\Debug\net6.0\proyecto3_clase5.AssemblyInfoInputs.cache
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\proyecto3_clase5\obj\Debug\net6.0\proyecto3_clase5.AssemblyInfo.cs
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\proyecto3_clase5\obj\Debug\net6.0\proyecto3_clase5.csproj.CoreCompileInputs.cache
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\proyecto3_clase5\obj\Debug\net6.0\proyecto3_clase5.dll
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\proyecto3_clase5\obj\Debug\net6.0\refint\proyecto3_clase5.dll
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\proyecto3_clase5\obj\Debug\net6.0\proyecto3_clase5.pdb
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\proyecto3_clase5\obj\Debug\net6.0\proyecto3_clase5.genruntimeconfig.cache
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\proyecto3_clase5\obj\Debug\net6.0\ref\proyecto3_clase5.dll
